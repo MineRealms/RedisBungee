@@ -132,5 +132,15 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>me.minidigger</groupId>
+            <artifactId>minimessage-bungee</artifactId>
+            <version>2.0.4</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>listenablefuture</artifactId>
+            <version>9999.0-empty-to-avoid-conflict-with-guava</version>
+        </dependency>
     </dependencies>
 </project>
