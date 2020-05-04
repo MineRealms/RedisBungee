@@ -3,7 +3,7 @@
 This repo is MineRealms's fork of RedisBungee [RedisBungee](https://github.com/minecrafter/RedisBungee) 
 [Redis](http://redis.io) and BungeeCord together. This is the solution deployed on [The Chunk](http://thechunk.net) to make sure our multi-Bungee setup flows smoothly together.
 
-这是我的领域群组的RedisBungee分支，他可以通过Redis以BungeeCord来实现BC连接BC，轻而易举实现BC集群，或你所想的一切！
+这是我的领域群组的RedisBungee分支，他可以通过Redis以BungeeCord来实现所有BC人数的显示
 
 ## Compiling | 编译
 
